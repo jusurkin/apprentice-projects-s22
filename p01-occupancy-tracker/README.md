@@ -1,26 +1,16 @@
-## Description
+# Occupancy Tracker
 
-Build a simple occupancy tracker. Here are very minimal and more fleshed out versions of this app.
+<img src="https://raw.githubusercontent.com/appteamcarolina/apprentice-projects-s22/352fd1d9154756965025ac34e5048ae89a944493/assets/appteam-sp22-transparent-logo.png" width="30px" align="left" alt="App Team Carolina Logo">
 
-<img src="./Screenshots/simple counter.gif" alt="simple counter implementation" height="600">
-<img src="./Screenshots/counter.gif" alt="feature-rich counter implementation" height="600">
+This project is a portion of <a href="https://appteamcarolina.com">App Team Carolina's</a> Apprenticeship curriculum.
 
+## My Implementation
+```
+add screenshots/gifs here
+```
+```
+add description of project here
+```
 
-## What Does Success Look Like?
-
-- Create at least one `@State` variable
-- Use `Button` to create plus and minus buttons that change counter variable
-- Use `Text` to display the current count (updates when changed, obviously)
-- Prevent user from having a negative count
-- (Optional Easy) Change button appearance to indicate that it cannot be pressed
-    - Minus button should change when count is zero
-- (Optional Harder) Add concept of a limit and make UI change when limit is surpassed
-
-## Goal
-
-- Review basic SwiftUI state management
-- Review very fundamental SwiftUI layout
-
-## Installation and Setup Instructions
-
-No real installation instructions for this one, just make your own Xcode project and get to coding!!
+## Project Instructions
+View project instructions [here](./instructions.md).
