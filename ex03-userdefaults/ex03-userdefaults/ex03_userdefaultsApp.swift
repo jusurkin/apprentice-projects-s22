@@ -11,7 +11,8 @@ import SwiftUI
 struct ex03_userdefaultsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            SettingsView()
         }
     }
 }
